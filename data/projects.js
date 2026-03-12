@@ -140,6 +140,78 @@
         "nextSteps":  "Add promotion-level ROI analysis and stock planning indicators."
     },
     {
+        "slug":  "smartphones-sales-overview",
+        "title":  "Smartphones Sales Overview",
+        "summary":  "Sales intelligence dashboard analyzing smartphone transactions, pricing, channel performance, and brand outcomes.",
+        "image":  "assets/images/projects/SmartPhone.png",
+        "embedUrl":  "https://app.powerbi.com/view?r=eyJrIjoiMWEwM2NkZTYtMTAxMC00ZmY1LTkxOGUtNWM3ZDhjYmIwZmJiIiwidCI6ImRmOTU4YzRkLTQ1ZWItNGU3MS05ZWUwLTMzYjc5M2M0N2UwMSJ9",
+        "reportUrl":  "https://app.powerbi.com/view?r=eyJrIjoiMWEwM2NkZTYtMTAxMC00ZmY1LTkxOGUtNWM3ZDhjYmIwZmJiIiwidCI6ImRmOTU4YzRkLTQ1ZWItNGU3MS05ZWUwLTMzYjc5M2M0N2UwMSJ9",
+        "githubUrl":  "",
+        "tools":  [
+                      "Power BI",
+                      "DAX",
+                      "Power Query",
+                      "Sales Analytics"
+                  ],
+        "category":  "Sales Analytics",
+        "overview":  "A smartphone sales dashboard built to provide a complete view of commercial performance and customer buying trends.",
+        "businessProblem":  "Commercial teams needed better visibility into unit sales distribution, channel contribution, and pricing behavior.",
+        "objective":  "Deliver a dashboard that supports tactical and strategic decisions for sales and product planning.",
+        "process":  "Modeled transaction data, built channel and brand KPIs, and designed drill-down visuals for geography and customer groups.",
+        "insights":  "Identified top-performing channels and highlighted age-group demand patterns for targeted campaigns.",
+        "outcome":  "Improved clarity on sales drivers and provided a stronger basis for pricing and distribution decisions.",
+        "challenges":  "Balancing dashboard detail with executive-level readability across multiple metric views.",
+        "nextSteps":  "Add forecasting and promotion impact simulations for planning cycles."
+    },
+    {
+        "slug":  "real-estate-sales-performance-dashboard",
+        "title":  "Real Estate Sales Performance Dashboard",
+        "summary":  "Power BI dashboard tracking listings, property sales, neighborhood pricing, and market movement indicators.",
+        "image":  "assets/images/projects/Real_Estate.png",
+        "embedUrl":  "https://app.powerbi.com/view?r=eyJrIjoiMGE2MGE3N2UtZTc3Zi00Yzg3LTk4YmQtZmMxMzRmYTIwODVlIiwidCI6ImRmOTU4YzRkLTQ1ZWItNGU3MS05ZWUwLTMzYjc5M2M0N2UwMSJ9",
+        "reportUrl":  "https://app.powerbi.com/view?r=eyJrIjoiMGE2MGE3N2UtZTc3Zi00Yzg3LTk4YmQtZmMxMzRmYTIwODVlIiwidCI6ImRmOTU4YzRkLTQ1ZWItNGU3MS05ZWUwLTMzYjc5M2M0N2UwMSJ9",
+        "githubUrl":  "",
+        "tools":  [
+                      "Power BI",
+                      "DAX",
+                      "Real Estate Analytics",
+                      "Market KPIs"
+                  ],
+        "category":  "Real Estate Analytics",
+        "overview":  "A real estate performance dashboard created to monitor sales outcomes, active listings, and property price behavior.",
+        "businessProblem":  "Teams lacked a unified view of market performance across neighborhoods, listing types, and pricing segments.",
+        "objective":  "Provide a centralized dashboard for tracking sales velocity and price distribution trends.",
+        "process":  "Prepared listing and transaction datasets, defined market metrics, and built comparative visuals by area and property type.",
+        "insights":  "Revealed neighborhoods with stronger volume performance and segments with pricing pressure.",
+        "outcome":  "Enabled more data-driven pricing and listing strategy decisions.",
+        "challenges":  "Harmonizing data from multiple real estate sources with differing field definitions.",
+        "nextSteps":  "Add buyer segmentation and demand trend forecasting layers."
+    },
+    {
+        "slug":  "oil-financial-operational-performance-dashboard",
+        "title":  "Oil Financial and Operational Performance Dashboard",
+        "summary":  "Operational and financial dashboard monitoring well performance, revenue drivers, cost efficiency, and profitability trends.",
+        "image":  "assets/images/projects/Oil_Performance.png",
+        "embedUrl":  "https://app.powerbi.com/view?r=eyJrIjoiMmJhYmYwOWYtODYwMy00MGQ4LWJkNmItMDg1ODJmYjE1MjI4IiwidCI6ImRmOTU4YzRkLTQ1ZWItNGU3MS05ZWUwLTMzYjc5M2M0N2UwMSJ9",
+        "reportUrl":  "https://app.powerbi.com/view?r=eyJrIjoiMmJhYmYwOWYtODYwMy00MGQ4LWJkNmItMDg1ODJmYjE1MjI4IiwidCI6ImRmOTU4YzRkLTQ1ZWItNGU3MS05ZWUwLTMzYjc5M2M0N2UwMSJ9",
+        "githubUrl":  "",
+        "tools":  [
+                      "Power BI",
+                      "DAX",
+                      "Energy Analytics",
+                      "Operational KPIs"
+                  ],
+        "category":  "Energy Analytics",
+        "overview":  "A performance dashboard designed to monitor oil and gas revenue, operational costs, and top-performing wells.",
+        "businessProblem":  "Operations and finance teams needed a clearer combined view of profitability and production efficiency.",
+        "objective":  "Unify operational and financial performance metrics in one decision-ready dashboard.",
+        "process":  "Integrated well-level production and finance data, modeled efficiency ratios, and designed operator and profitability views.",
+        "insights":  "Highlighted high-performing wells and surfaced cost-to-revenue opportunities across operators.",
+        "outcome":  "Improved visibility for production planning and financial optimization discussions.",
+        "challenges":  "Aligning finance and operations definitions for consistent KPI interpretation.",
+        "nextSteps":  "Add anomaly detection and scenario-based production forecasting."
+    },
+    {
         "slug":  "titanic-exploratory-analysis",
         "title":  "Exploratory Analysis with Titanic Dataset",
         "summary":  "Exploratory data analysis and classification model comparison using the Titanic dataset.",
