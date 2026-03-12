@@ -7,16 +7,16 @@
   --navy: #10253e;
   --charcoal: #1d3a58;
   --teal: #0f8f87;
-  --teal-dark: #0b6f6a;
+    --bg: #edf4fb;
   --gold: #e0aa3e;
   --gold-soft: #f4e0b5;
   --ring: rgba(15, 143, 135, 0.34);
   --border: #cfdae5;
-  --border-strong: #b8c7d7;
-  --chip-bg: #ebf4f7;
-  --chip-border: #d2e2ea;
-  --chip-text: #274a60;
-  --hero-glow-1: rgba(15, 143, 135, 0.34);
+    --navy: #0c2442;
+    --charcoal: #1a466c;
+    --teal: #0a9d93;
+    --teal-dark: #08756f;
+    --gold: #d99221;
   --hero-glow-2: rgba(16, 37, 62, 0.28);
   --shadow: 0 18px 44px rgba(13, 32, 54, 0.13);
   --shadow-soft: 0 10px 26px rgba(14, 34, 56, 0.08);
@@ -38,9 +38,9 @@ body {
   margin: 0;
   font-family: "Manrope", sans-serif;
   color: var(--text);
-  background: radial-gradient(circle at 8% -10%, #d7e8f2 0%, transparent 35%),
-    radial-gradient(circle at 110% 8%, #d6efe8 0%, transparent 31%),
-    radial-gradient(circle at 50% 115%, #f5e6c7 0%, transparent 27%),
+    background: radial-gradient(circle at 8% -10%, #cde4f5 0%, transparent 39%),
+      radial-gradient(circle at 110% 8%, #c5efe4 0%, transparent 35%),
+      radial-gradient(circle at 50% 115%, #f7dcad 0%, transparent 30%),
     var(--bg);
   line-height: 1.6;
 }
@@ -255,7 +255,7 @@ h4 {
 }
 
 .btn-primary {
-  background: linear-gradient(140deg, var(--navy), var(--charcoal) 65%, #2e587d);
+  background: linear-gradient(140deg, var(--navy), var(--charcoal) 58%, var(--teal) 85%, var(--gold));
   color: #fff;
   box-shadow: 0 12px 28px rgba(16, 37, 62, 0.26);
 }
@@ -478,7 +478,7 @@ h4 {
 }
 
 .site-footer {
-  background: linear-gradient(135deg, #10253e, #173452);
+  background: linear-gradient(120deg, #0c2442, #175078 72%, #2e6f8f);
   color: #d9e7f5;
   padding: 1.2rem 0;
 }
