@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="Customer retention report placeholder">
+  <rect width="1280" height="720" fill="#f4f8fb"/>
+  <rect x="58" y="58" width="1164" height="604" rx="22" fill="#ffffff" stroke="#ced9e4"/>
+  <text x="110" y="120" fill="#12263d" font-size="34" font-family="Arial, sans-serif" font-weight="700">Customer Retention Intelligence Report</text>
+  <rect x="110" y="160" width="460" height="220" rx="14" fill="#eef5fa"/>
+  <rect x="600" y="160" width="510" height="220" rx="14" fill="#eef5fa"/>
+  <rect x="110" y="410" width="1000" height="200" rx="14" fill="#eef5fa"/>
+  <polyline points="140,560 230,510 320,500 410,460 500,445 590,420 680,400 770,370 860,350 950,340" fill="none" stroke="#0e1a2b" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="950" cy="340" r="9" fill="#0f8a8d"/>
+  <text x="640" y="600" text-anchor="middle" fill="#3f5569" font-size="21" font-family="Arial, sans-serif">Churn Trend and Segment Diagnostics</text>
+</svg>

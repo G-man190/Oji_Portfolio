@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "project-slug",
+    "title": "Project Title",
+    "summary": "One-line summary for project cards.",
+
+    // Insert your Power BI screenshot path here (local image file in assets/images/projects/)
+    "image": "assets/images/projects/your-project-screenshot.png",
+
+    // Insert your embeddable Power BI iframe link here. Leave empty string if unavailable.
+    "embedUrl": "https://app.powerbi.com/view?r=YOUR_EMBED_LINK",
+
+    // Insert your public Power BI report link here (used for Live Dashboard / View Report button)
+    "reportUrl": "https://app.powerbi.com/view?r=YOUR_PUBLIC_REPORT_LINK",
+
+    // Insert GitHub repository link here. Leave empty string if no GitHub repo.
+    "githubUrl": "https://github.com/G-man190/your-project-repo",
+
+    "tools": ["Power BI", "SQL", "DAX"],
+    "category": "Sales Analytics",
+    "overview": "High-level project summary.",
+    "businessProblem": "What business issue did this solve?",
+    "objective": "What was the project objective?",
+    "process": "How did you build it?",
+    "insights": "What key insights were discovered?",
+    "outcome": "What value/outcome was delivered?",
+    "challenges": "What constraints or issues appeared?",
+    "nextSteps": "What would you improve next?"
+  }
+]

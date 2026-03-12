@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="Operations KPI dashboard placeholder">
+  <rect width="1280" height="720" fill="#f4f8fa"/>
+  <rect x="60" y="60" width="1160" height="600" rx="22" fill="#ffffff" stroke="#ced9e4"/>
+  <text x="110" y="120" fill="#12263d" font-size="34" font-family="Arial, sans-serif" font-weight="700">Operations KPI Command Center</text>
+  <rect x="110" y="160" width="300" height="190" rx="14" fill="#ecf4f7"/>
+  <rect x="440" y="160" width="300" height="190" rx="14" fill="#ecf4f7"/>
+  <rect x="770" y="160" width="340" height="190" rx="14" fill="#ecf4f7"/>
+  <rect x="110" y="380" width="660" height="230" rx="14" fill="#ecf4f7"/>
+  <rect x="800" y="380" width="310" height="230" rx="14" fill="#ecf4f7"/>
+  <rect x="150" y="540" width="55" height="40" fill="#0f8a8d"/>
+  <rect x="220" y="510" width="55" height="70" fill="#0f8a8d"/>
+  <rect x="290" y="490" width="55" height="90" fill="#0f8a8d"/>
+  <rect x="360" y="460" width="55" height="120" fill="#0f8a8d"/>
+  <text x="850" y="450" fill="#243d50" font-size="22" font-family="Arial, sans-serif">SLA Risk</text>
+  <text x="850" y="490" fill="#476074" font-size="18" font-family="Arial, sans-serif">High: 12%</text>
+  <text x="850" y="520" fill="#476074" font-size="18" font-family="Arial, sans-serif">Medium: 27%</text>
+  <text x="850" y="550" fill="#476074" font-size="18" font-family="Arial, sans-serif">Low: 61%</text>
+</svg>
