@@ -70,27 +70,28 @@
         "nextSteps":  "Integrate text sentiment analysis and action tracking metrics."
     },
     {
-        "slug":  "pharmacy-report",
-        "title":  "Pharmacy Report",
-        "summary":  "Operational pharmacy analytics report for inventory, dispensing patterns, and service performance.",
-        "image":  "assets/images/projects/pharmacy-report.png",
-        "embedUrl":  "https://app.powerbi.com/view?r=eyJrIjoiMjAwMDUyM2YtNzEzMi00NmE1LTg0ZDUtOGE2OTMyZTNhMmU1IiwidCI6ImRmOTU4YzRkLTQ1ZWItNGU3MS05ZWUwLTMzYjc5M2M0N2UwMSJ9",
-        "reportUrl":  "https://app.powerbi.com/view?r=eyJrIjoiMjAwMDUyM2YtNzEzMi00NmE1LTg0ZDUtOGE2OTMyZTNhMmU1IiwidCI6ImRmOTU4YzRkLTQ1ZWItNGU3MS05ZWUwLTMzYjc5M2M0N2UwMSJ9",
+        "slug":  "healthcare-claims-payer-mix-dashboard",
+        "title":  "Healthcare Claims \u0026 Payer Mix Dashboard",
+        "summary":  "Executive healthcare analytics dashboard focused on claims trends, payer distribution, and reimbursement mix performance.",
+        "image":  "assets/images/projects/Healthcare%20Claims%20%26%20Payer%20Mix%20Dashboard.png",
+        "embedUrl":  "https://app.powerbi.com/view?r=eyJrIjoiMTAxMjJmYTgtY2JlMS00M2JkLThlNDYtZWYxMTYwOTUzYjJiIiwidCI6ImRmOTU4YzRkLTQ1ZWItNGU3MS05ZWUwLTMzYjc5M2M0N2UwMSJ9",
+        "reportUrl":  "https://app.powerbi.com/view?r=eyJrIjoiMTAxMjJmYTgtY2JlMS00M2JkLThlNDYtZWYxMTYwOTUzYjJiIiwidCI6ImRmOTU4YzRkLTQ1ZWItNGU3MS05ZWUwLTMzYjc5M2M0N2UwMSJ9",
         "githubUrl":  "",
         "tools":  [
                       "Power BI",
                       "DAX",
-                      "SQL"
+                      "Power Query",
+                      "Healthcare Analytics"
                   ],
         "category":  "Healthcare Analytics",
-        "overview":  "A performance report for pharmacy operations, built to monitor stock, demand, and turnaround metrics.",
-        "businessProblem":  "Operational teams needed better visibility into medication flow and service bottlenecks.",
-        "objective":  "Improve decision speed for inventory planning and service-level management.",
-        "process":  "Modeled transaction and stock data, created KPI measures, and built trend and exception pages.",
-        "insights":  "Exposed product classes with frequent stock pressure and peak-period service delays.",
-        "outcome":  "Enabled data-backed planning and improved operational review cadence.",
-        "challenges":  "Data granularity varied across source systems and required harmonization.",
-        "nextSteps":  "Add demand forecasting and automated low-stock early warnings."
+        "overview":  "An executive dashboard built to track healthcare claims activity, payer mix, and utilization patterns across reporting periods.",
+        "businessProblem":  "Revenue cycle teams needed a unified view of claims volume, payer dependency, and reimbursement exposure to guide strategic decisions.",
+        "objective":  "Provide clear visibility into claims trends and payer distribution so stakeholders can reduce risk and improve financial performance.",
+        "process":  "Prepared claims and payer datasets, modeled payer-category KPIs, and designed interactive visuals for trend, split, and utilization analysis.",
+        "insights":  "Highlighted strong dependence on government payers and surfaced differences in claims intensity across payer categories.",
+        "outcome":  "Improved decision support for payer strategy, contract planning, and operational prioritization in revenue cycle management.",
+        "challenges":  "Harmonizing payer labels and balancing high-level executive metrics with detailed operational views.",
+        "nextSteps":  "Add denial-rate monitoring, reimbursement variance analysis, and predictive alerts for payer-risk changes."
     },
     {
         "slug":  "customer-loyalty",
