@@ -302,6 +302,20 @@ h4 {
   align-self: start;
 }
 
+.hero-photo-wrap {
+  width: min(100%, 280px);
+  margin: 0 auto 0.9rem;
+}
+
+.hero-photo {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  box-shadow: 0 14px 30px rgba(13, 32, 54, 0.16);
+}
+
 .panel-title {
   margin: 0;
   font-size: 0.88rem;
@@ -634,6 +648,10 @@ h4 {
 
   .resume-card {
     display: grid;
+  }
+
+  .hero-photo-wrap {
+    width: min(100%, 320px);
   }
 
   .nav-toggle {
